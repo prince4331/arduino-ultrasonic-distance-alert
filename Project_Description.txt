@@ -1,0 +1,4 @@
+﻿Title: Ultrasonic Distance Alert
+Overview: Dual ultrasonic sensing with Blynk dashboard, buzzer, and LED thresholds for proximity monitoring.
+Hardware: ESP8266 NodeMCU, two HC-SR04 sensors, buzzer, indicator LED.
+Notes: Tune the safety distance thresholds to fit your use case and enclosure.
