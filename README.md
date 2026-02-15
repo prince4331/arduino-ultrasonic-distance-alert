@@ -1,5 +1,7 @@
 ﻿# Ultrasonic Distance Alert
 
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Embedded-informational) ![Status](https://img.shields.io/badge/status-Active-success)
+
 Dual ultrasonic sensing with Blynk dashboard, buzzer, and LED thresholds for proximity monitoring.
 
 ## Original Folder
